@@ -13,8 +13,7 @@ The link to the webpage is:
 <b>Usage:</b>
 Below is a screenshot of the final result with the generated password based on input criteria
 
-<b>MAIN PAGE</b>
-![main_screenshot](https://user-images.githubusercontent.com/74234842/100572089-c6167100-3328-11eb-88da-7cb7b1090a5a.png)
+![screenshot_generator](https://user-images.githubusercontent.com/74234842/100995489-f1f55900-35ab-11eb-8a4f-34ec45b6a431.png)
 
 <b> My Process</b>
 1. First I needed to figure out the variables 
